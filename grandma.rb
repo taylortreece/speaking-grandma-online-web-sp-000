@@ -2,6 +2,7 @@
 def speak_to_grandma(phrase)
   if phrase.upcase == "i love you grandma!"
     puts "I LOVE YOU TOO PUMPKIN"
+  end
 end
 # Whatever you say to grandma, she should respond with
 # HUH?! SPEAK UP, SONNY!
